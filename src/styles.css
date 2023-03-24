@@ -1,0 +1,9 @@
+.pass{
+    font-size: 100px;
+    color: blue;
+}
+
+.parent{
+    color: red;
+    font-size: 150px;
+}
